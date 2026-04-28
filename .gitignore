@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dados locais
+*.csv
+*.xlsx
+*.parquet
+*.json
+*.sqlite3
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
