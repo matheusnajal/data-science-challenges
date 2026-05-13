@@ -25,7 +25,7 @@ Com formação avançada (MBA USP/Esalq) e foco no ecossistema de Ciência de Da
 | Trilha / Categoria | Foco Técnico | Questões Resolvidas | Status / Link |
 | :--- | :--- | :---: | :---: |
 | **Top 50 SQL** | Joins, Window Functions, CTEs | `16 / 50` | ⏳ Em andamento |
-| **30 Days of Pandas** | Limpeza, Agregação, Transformação | `17 / 32` | ⏳ Em andamento |
+| **30 Days of Pandas** | Limpeza, Agregação, Transformação | `18 / 32` | ⏳ Em andamento |
 | **Data Structures** | Arrays, Hashing, Two Pointers | `0 / 25` | ⏳ Em andamento |
 
 ### Organização do Repositório
@@ -46,7 +46,7 @@ With an advanced academic background (MBA USP/Esalq) and a focus on the Data Sci
 | Track / Category | Technical Focus | Solved Questions | Status / Link |
 | :--- | :--- | :---: | :---: |
 | **Top 50 SQL** | Joins, Window Functions, CTEs | `16 / 50` | ⏳ In progress |
-| **30 Days of Pandas** | Cleaning, Aggregation, Transformation | `17 / 32` | ⏳ In progress |
+| **30 Days of Pandas** | Cleaning, Aggregation, Transformation | `18 / 32` | ⏳ In progress |
 | **Data Structures** | Arrays, Hashing, Two Pointers | `0 / 25` | ⏳ In progress |
 
 ### Repository Organization
